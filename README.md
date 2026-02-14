@@ -50,7 +50,7 @@ The system simulates a team of AI analysts working collaboratively to summarize 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=flat-square)](https://en.wikipedia.org/wiki/Large_language_model)
 [![Faiss](https://img.shields.io/badge/Faiss-150458?style=flat-square)](https://faiss.ai/)
-[![LangChain](https://img.shields.io/badge/LangChain-FF6F00?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
+[![LangChain](https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
 [![pypdf](https://img.shields.io/badge/pypdf-11557C?style=flat-square&logo=pypdf&logoColor=white)](https://pypi.org/project/pypdf/)
 
 ---
