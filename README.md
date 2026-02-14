@@ -55,23 +55,6 @@ The system simulates a team of AI analysts working collaboratively to summarize 
 
 ---
 
-## 🏗️ System Workflow
-
-User Query
-↓
-Planner Agent
-↓
-Retriever Agent (RAG + FAISS)
-↓
-Analyst Agent
-↓
-Reviewer Agent
-↓
-Executive Report 
-
-
----
-
 ## 📄 License
 
 MIT License
